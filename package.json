@@ -1,0 +1,38 @@
+{
+  "name": "react-graphql-auth",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.3.1",
+    "apollo-cache-inmemory": "1.5.1",
+    "apollo-client": "2.5.1",
+    "apollo-link-context": "1.0.17",
+    "apollo-link-http": "1.5.14",
+    "auth0-js": "9.10.1",
+    "graphql": "14.2.0",
+    "graphql-tag": "2.10.1",
+    "react": "16.8.3",
+    "react-apollo": "2.5.3",
+    "react-dom": "16.8.3",
+    "react-router": "5.0.0",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
